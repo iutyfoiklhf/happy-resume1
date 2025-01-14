@@ -1,7 +1,7 @@
 {
   "titleNameMap": {
     "educationList": "教育背景",
-    "workExpList": "工作经历",
+    "workExpList": "实习经历",
     "projectList": "项目经验",
     "skillList": "个人技能",
     "awardList": "更多信息",
@@ -13,28 +13,26 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
+    "name": "罗开昕",
+    "email": "lkx091827@163.com",
+    "mobile": "18387906310",
     "workExpYear": ""
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2023.09.01",
+        "至今"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
+      "school": "广东工业大学",
+      "major": "控制工程",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
     {
       "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_time": "2024"
     },
     {
       "award_info": "蚂蚁近卫军 卓越个人奖",
